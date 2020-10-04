@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpLZW", "SharpLZW.csproj", "{C4520559-F0F6-463F-91D8-A004BF9E0720}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSharpLZW", "..\TestLZW\TestSharpLZW.csproj", "{2BDB5AF6-C05B-4219-80A4-31EDADA010C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4520559-F0F6-463F-91D8-A004BF9E0720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4520559-F0F6-463F-91D8-A004BF9E0720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4520559-F0F6-463F-91D8-A004BF9E0720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4520559-F0F6-463F-91D8-A004BF9E0720}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BDB5AF6-C05B-4219-80A4-31EDADA010C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BDB5AF6-C05B-4219-80A4-31EDADA010C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BDB5AF6-C05B-4219-80A4-31EDADA010C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BDB5AF6-C05B-4219-80A4-31EDADA010C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2238BFAC-B6A0-4538-9E74-DA2792274951}
+	EndGlobalSection
+EndGlobal
